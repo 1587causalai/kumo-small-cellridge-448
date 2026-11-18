@@ -12,6 +12,8 @@ The continuation used independent synthetic training tables, 2,048 labeled suppo
 
 The local development score was 999.0 Elo under a restricted support/query protocol and a 46-method reference pool. The official TabArena leaderboard uses its own training, validation, test and ranking procedures. Scores and ranking positions from those protocols must be reported separately.
 
+[TabArena-Lite results and per-task metrics](LITE.md)
+
 ## Source and license
 
 The base weights come from NVIDIA Kumo Tabular, revision 3c3e10bbdb590ace29e7026847f92db3c603096d. The structured-data-models implementation used by this derivative is revision b780fc92b2cd50df5525575f0ddd1ae9038102bc. The weight license is OpenMDW-1.1. [NVIDIA model](https://huggingface.co/nvidia/Kumo-Tabular) · [Pinned implementation](https://github.com/NVIDIA/structured-data-models/tree/b780fc92b2cd50df5525575f0ddd1ae9038102bc) · [License and copyright notice](LICENSE)

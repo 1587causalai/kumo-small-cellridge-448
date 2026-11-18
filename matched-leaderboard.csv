@@ -1,0 +1,95 @@
+method,elo,elo+,elo-
+TA-KUMO-TABULAR (default),2092.7,201.8,119.4
+TA-LIMIX-2 (default),1969.5,172.9,124.2
+TA-KUMO-TABULAR-MEDIUM (default),1945.4,161.9,109.1
+TA-TABPFN-3.5 (default),1899.9,152.6,102.2
+TA-KUMO-TABULAR-SMALL (default),1838.4,102.4,68.3
+CAUSILO (default),1836.8,97.4,72.9
+TA-TABPFN-3.5-FAST (default),1826.9,100.8,62.1
+TABFM (default),1825.2,134.4,118.8
+MITRA_V2 (default),1793.6,118.9,82.8
+TA-EXAONE-TABULAR (default),1784.5,79.0,60.8
+TABABAX (default),1703.2,90.4,76.6
+TA-TABPFN-3 (default),1652.6,81.5,59.9
+TABPFN-V2.6 (default),1621.8,69.8,47.1
+XIAOMI-TABLDM (default),1620.1,87.5,78.3
+REALTABPFN-V2.5 (tuned + ensemble),1609.9,79.3,52.2
+TABICLV2 (default),1592.1,74.5,64.8
+REALTABPFN-V2.5 (tuned),1559.9,66.3,54.8
+REALTABPFN-V2.5 (default),1539.2,63.5,45.6
+TABDPT-1.3 (default),1519.5,75.7,55.0
+REALMLP_GPU (tuned + ensemble),1515.8,48.0,44.2
+TABM-A (tuned + ensemble),1508.7,56.9,55.0
+REALMLP_GPU (tuned),1442.7,48.4,60.3
+TABDPT_GPU (tuned + ensemble),1435.4,68.1,62.6
+MLP-A (tuned + ensemble),1431.9,50.1,44.5
+TABDPT_TURBO (default),1431.8,59.6,49.3
+TABM-A (tuned),1430.8,59.1,55.9
+TA-TABM (tuned + ensemble),1423.9,60.5,44.6
+CAT (tuned),1417.3,45.0,39.3
+GBM (tuned + ensemble),1415.2,37.3,40.6
+CAT (tuned + ensemble),1409.6,46.9,34.9
+TA-ILTM (tuned + ensemble),1406.6,54.2,51.6
+TABDPT_GPU (tuned),1393.4,64.6,55.9
+MNCA_GPU (tuned + ensemble),1386.7,71.9,56.3
+CHIMERA (tuned + ensemble),1386.6,52.4,55.3
+TA-TABM (tuned),1384.1,63.3,53.7
+TA-LIMIX (default),1373.4,86.6,68.0
+XGB (tuned + ensemble),1371.6,38.9,43.5
+CHIMERA (tuned),1359.6,62.1,61.4
+CAT (default),1358.6,37.4,41.6
+GBM (tuned),1356.6,45.2,46.3
+MNCA_GPU (tuned),1353.6,57.7,58.3
+XGB (tuned),1345.6,46.7,49.3
+XRFM_GPU (tuned + ensemble),1344.6,66.4,52.5
+TA-TABSWIFT (default),1342.3,71.0,55.9
+CTB (tuned + ensemble),1330.4,47.7,62.1
+TA-ILTM (tuned),1305.3,54.0,49.4
+CHIMERA (default),1305.3,64.5,60.6
+XRFM_GPU (tuned),1298.0,58.7,55.3
+TABDPT_GPU (default),1292.0,61.7,72.9
+MLP-A (tuned),1288.3,49.2,46.8
+CTB (tuned),1288.0,49.5,62.9
+TA-TABM (default),1286.1,49.4,55.9
+TABM-A (default),1278.3,48.9,48.8
+EBM (tuned + ensemble),1269.8,55.9,58.8
+NN_TORCH (tuned + ensemble),1261.2,43.1,54.7
+SAP-RPT-OSS (default),1252.6,75.3,75.5
+REALMLP_GPU (default),1251.1,49.2,56.5
+MNCA_GPU (default),1220.3,65.4,62.9
+EBM (tuned),1217.6,58.5,54.7
+PRISMBOOST (tuned + ensemble),1202.7,53.8,54.8
+EBM (default),1199.9,58.7,68.5
+NN_TORCH (tuned),1198.8,64.8,67.5
+XT (tuned + ensemble),1195.4,62.2,64.6
+MLP-A (default),1189.5,58.1,63.8
+XGB (default),1188.0,51.7,56.8
+TA-TABSTAR-V1.1 (default),1179.8,72.2,84.9
+TA-APLR (tuned + ensemble),1174.4,48.1,69.1
+FASTAI (tuned + ensemble),1172.6,72.6,69.6
+CTB (default),1169.1,61.0,68.2
+PRISMBOOST (tuned),1167.3,51.2,54.1
+XT (tuned),1167.0,69.3,78.3
+GBM (default),1156.4,52.3,53.9
+RF (tuned + ensemble),1154.0,63.2,71.8
+TA-APLR (tuned),1118.9,55.7,75.1
+RF (tuned),1116.1,58.0,62.4
+FASTAI (tuned),1105.3,70.1,84.6
+PRISMBOOST (default),1102.9,51.2,62.2
+PB (tuned + ensemble),1087.1,63.7,71.4
+TA-ILTM (default),1085.5,60.7,73.9
+TA-APLR (default),1082.1,67.8,96.1
+PB (tuned),1040.0,48.2,70.1
+XRFM_GPU (default),1033.2,74.3,74.8
+NN_TORCH (default),1029.5,62.5,73.2
+XT (default),1014.2,76.5,91.4
+RF (default),1000.0,74.3,75.3
+CellRidge-448 (default),983.9,91.0,115.7
+FASTAI (default),974.1,68.9,78.8
+KNN (tuned + ensemble),972.3,72.4,96.5
+LR (tuned + ensemble),947.7,85.5,122.3
+PB (default),943.0,64.0,97.1
+LR (tuned),928.1,96.0,139.6
+KNN (tuned),823.0,77.0,98.7
+LR (default),817.3,91.3,113.4
+KNN (default),613.7,83.0,135.4
